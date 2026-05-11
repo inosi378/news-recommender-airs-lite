@@ -1,0 +1,26 @@
+# virtual environment
+.venv/
+venv/
+
+# data files
+data/raw/
+data/processed/
+*.csv
+*.tsv
+*.zip
+*.vec
+
+# outputs
+outputs/
+*.log
+
+# notebook checkpoints
+.ipynb_checkpoints/
+
+# python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
